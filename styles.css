@@ -1,3 +1,5 @@
-i{
-    font-size:large;
+.galeria{
+    width:430px; 
+    height:300px; 
+    object-fit: cover;
 }
